@@ -1,0 +1,22 @@
+.Table{
+    text-align: center;
+    color: darkolivegreen;
+    border: red solid 2px;
+    width: 80%;
+}
+.Table-header{
+    background-color: #ff7b00;
+    align-items: center;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Table-body{
+    border: chartreuse solid 2px;
+    color: rgb(189, 107, 155);
+    background-color:linen;
+}
+.button-del{
+    color:chocolate;
+    background-color: chartreuse;
+    border: maroon;
+}
